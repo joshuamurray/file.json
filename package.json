@@ -1,0 +1,16 @@
+{
+  "name": "file.json",
+  "version": "0.0.1",
+  "description": "Simple interface for rapidly manipulating JSON files",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "JSON",
+    "config",
+    "file"
+  ],
+  "author": "Josh Murray - joshomurray@gmail.com",
+  "license": "MIT"
+}
