@@ -13,12 +13,17 @@
   "keywords": [
     "JSON",
     "config",
-    "file"
+    "file",
+    "storage"
   ],
   "author": "Josh Murray - joshomurray@gmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/joshuamurray/file.json/issues"
   },
-  "homepage": "https://github.com/joshuamurray/file.json"
+  "homepage": "https://github.com/joshuamurray/file.json",
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "should": "^7.0.4"
+  }
 }
